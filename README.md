@@ -1,5 +1,5 @@
 ### Мой стек
-<img src="https://img.shields.io/badge/Python-#363636?style=for-the-badge&logo=Python&logoColor=#cccccc"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=#cccccc"/>
 
 <!--
 **unkevich/unkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
