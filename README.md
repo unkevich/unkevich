@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/MS SQL Server-363636?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFE4B5"/> <img src="https://img.shields.io/badge/MySQL-363636?style=for-the-badge&logo=mysql&logoColor=87CEFA"/> <img src="https://img.shields.io/badge/PostgreeSQL-363636?style=for-the-badge&logo=postgresql&logoColor=AFEEEE"/> <img src="https://img.shields.io/badge/SQLite3-363636?style=for-the-badge&logo=sqlite&logoColor=FFFFE0"/>
 
 ## Я в соц. сетях
-<img src="https://img.shields.io/badge/Discord-363636?style=for-the-badge&logo=discord&logoColor=E6E6FA"/>
+<link <img src="https://img.shields.io/badge/Discord-363636?style=for-the-badge&logo=discord&logoColor=E6E6FA"/> />
 
 
 <!--
