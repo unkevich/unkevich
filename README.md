@@ -3,6 +3,12 @@
 <img src="https://img.shields.io/badge/C++-363636?style=for-the-badge&logo=cplusplus&logoColor=1E90FF"/>
 <img src="https://img.shields.io/badge/csharp-363636?style=for-the-badge&logo=csharp&logoColor=9932CC"/>
 
+## Работа с БД
+<img src="https://img.shields.io/badge/MS SQL Server-363636?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFE4B5"/>
+<img src="https://img.shields.io/badge/MySQL-363636?style=for-the-badge&logo=mysql&logoColor=87CEFA"/>
+<img src="https://img.shields.io/badge/PostgreeSQL-363636?style=for-the-badge&logo=postgresql&logoColor=AFEEEE"/>
+<img src="https://img.shields.io/badge/SQLite3-363636?style=for-the-badge&logo=sqlite&logoColor=FFFFE0"/>
+
 <!--
 **unkevich/unkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
